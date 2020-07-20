@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.App-header .ui.header {
+  color: white;
+}
+
+.ui.header {
+  color: black;
+
+}
+
+.ui.text.container {
+  padding-top: 10vh;
+}
+
+h3.ui.header {
+  text-align: left;
+}

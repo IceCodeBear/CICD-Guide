@@ -1,0 +1,1 @@
+export { default as GCP } from './gcp';
